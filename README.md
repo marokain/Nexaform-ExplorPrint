@@ -1,6 +1,5 @@
 <img width="2559" height="1386" alt="Screenshot 2026-09-17 223522" src="https://github.com/user-attachments/assets/be3c4c9f-0a95-4780-9b3e-9b46177635b9" />
 
-
 Nexaform ExplorPrint
 Das Problem: Das 3D-Druck-Chaos im Standard-Explorer
 
@@ -39,5 +38,11 @@ Mitwirken & Feedback
 
 Wenn du Ideen, Wünsche oder Vorschläge zur Verbesserung hast, lass es mich gerne wissen! Erstelle einfach ein Issue oder einen Pull Request auf GitHub, wenn du das Tool weiterentwickeln oder an deine eigenen Bedürfnisse anpassen möchtest. Jede Hilfe und Inspiration ist willkommen!
 
+
+Installation & Start
+
+Keine komplizierte Installation, kein Installations-Assistent nötig!
+
+- Die Zip-Datei Nexaform_ExplorPrint_portable muss einfach nur entpackt und die .exe gestartet werden. Das Programm läuft komplett portabel, ohne dass etwas auf deinem Computer installiert werden muss.
 
 "Dieses Projekt ist unter der AGPL-3.0 lizenziert. Für private Nutzer und die Community ist die Nutzung frei. Kommerzielle Unternehmen (wie Hersteller von 3D-Druckern oder Software-Anbieter), die dieses Tool in ihre kommerziellen Produkte oder Ökosysteme integrieren möchten, ohne ihren eigenen Quellcode unter der AGPL offenzulegen, benötigen eine kommerzielle Lizenz. Kontaktieren Sie mich dafür direkt."
