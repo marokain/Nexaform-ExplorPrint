@@ -6,34 +6,34 @@ Das Problem: Das 3D-Druck-Chaos im Standard-Explorer
 
 Wer kennt es nicht? Man sammelt über die Jahre riesige Archive an 3D-Modellen an (Seiten wie Patreon-Künstler, Kickstarter-Kampagnen, MyMiniFactory etc.). Wenn diese Sammlung in die Terabyte-Bereiche wächst, kapituliert der normale Windows-Datei-Explorer gnadenlos:
 
-    Ewiges Laden von Thumbnails bei Tausenden von ZIP-Archiven.
+- Ewiges Laden von Thumbnails bei Tausenden von ZIP-Archiven.
 
-    Unübersichtliche Ordnerstrukturen (Unterordner in Unterordnern), bis man endlich die passende STL oder das Renderbild gefunden hat.
+- Unübersichtliche Ordnerstrukturen (Unterordner in Unterordnern), bis man endlich die passende STL oder das Renderbild gefunden hat.
 
-    Kein schneller Überblick über Inhalte, ohne jedes Archiv mühsam einzeln entpacken oder öffnen zu müssen.
+- Kein schneller Überblick über Inhalte, ohne jedes Archiv mühsam einzeln entpacken oder öffnen zu müssen.
 
 Getestet und für gut befunden mit riesigen Archiven (erfolgreich im Praxiseinsatz bei über 1,6 TB Datenvolumen).
 Die Lösung: Nexaform ExplorPrint
 
 Nexaform ExplorPrint ist ein maßgeschneiderter, blitzschneller Asset-Manager, der genau für diesen Anwendungsfall entwickelt wurde. Statt sich durch endlose Ordnerbäume zu klicken, bietet das Tool eine strukturierte Vier-Spalten-Ansicht:
 
-    Archive & Ordner: Behalten Sie den Überblick über all Ihre komprimierten Archive (.zip etc.) und Ordnerstrukturen.
+- Archive & Ordner: Behalten Sie den Überblick über all Ihre komprimierten Archive (.zip etc.) und Ordnerstrukturen.
 
-    3D-Modelle: Filtern und durchsuchen Sie die enthaltenen Modelle im Handumdrehen.
+- 3D-Modelle: Filtern und durchsuchen Sie die enthaltenen Modelle im Handumdrehen.
 
-    Bilder & Vorschau: Sehen Sie sofort, welche Renderings oder Fotos zu den Modellen gehören.
+- Bilder & Vorschau: Sehen Sie sofort, welche Renderings oder Fotos zu den Modellen gehören.
 
-    Live-Vorschau: Betrachten Sie Bilder direkt in der App oder wechseln Sie in den integrierten 3D-Modus.
+- Live-Vorschau: Betrachten Sie Bilder direkt in der App oder wechseln Sie in den integrierten 3D-Modus.
 
 Hauptmerkmale
 
-    Performance-optimiert: Designed für den Umgang mit gigantischen Datenmengen (1,6 TB+ getestet), ohne dass die Anwendung einfriert.
+- Performance-optimiert: Designed für den Umgang mit gigantischen Datenmengen (1,6 TB+ getestet), ohne dass die Anwendung einfriert.
 
-    Intuitive Benutzeroberfläche: Modernes CustomTkinter-Design mit Dark- und Light-Mode, das sich nahtlos in den Workflow einfügt.
+- Intuitive Benutzeroberfläche: Modernes CustomTkinter-Design mit Dark- und Light-Mode, das sich nahtlos in den Workflow einfügt.
 
-    Direktes Stöbern: Schneller Zugriff auf Inhalte, ohne dass Archive permanent manuell entpackt werden müssen.
+- Direktes Stöbern: Schneller Zugriff auf Inhalte, ohne dass Archive permanent manuell entpackt werden müssen.
 
-    Kompakt & Portabel: Läuft zuverlässig als eigenständige Desktop-Anwendung.
+- Kompakt & Portabel: Läuft zuverlässig als eigenständige Desktop-Anwendung.
 
 Mitwirken & Feedback
 
